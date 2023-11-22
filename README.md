@@ -1,4 +1,9 @@
-### Hi there 👋
+Jaeha Lee
+---
+![jaeha0183's github stats](https://github-readme-stats.vercel.app/api?username=jaeha0183&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeha0183&layout=compact&theme=dark)
+---
+![LeetCode Stats](https://leetcode.card.workers.dev/jaeha0183?theme=dark&font=baloo&extension=null)
 
 <!--
 **jaeha0183/jaeha0183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
